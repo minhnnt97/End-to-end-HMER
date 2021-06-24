@@ -16,6 +16,7 @@ In this project, I will try to develop a similar system to read, interpret, and 
 My model will take a form an encoder-decoder architecture where the encoder has the job of reading the image and extracting the symbols, which the decoder will take as input and parse into a $LaTeX$ code snippet.
 
 It will look something like this:
+
 ![my_model](https://i.imgur.com/fLqA4rp.png)
 
 As shown above, the encoder will take the form of a CNN (VGG, DenseNet) to extract features from the image, and the decoder will be an RNN (LSTM, Transformer) to parse those features. The decoder may or may not be equipped with the attention mechanism depending on the time constraints.
@@ -42,7 +43,7 @@ Extra datasets for symbol segmentation/classification can be found below:
 -    [x] Finalizing the pipeline + debugging
 -    [x] Streamlit interface and deployment
 -    [ ] Presentation slides
--    [ ] DONE :100: (Hope to god I get here)
+-    [ ] DONE :100:
 
 ## Code
 -    [Colab Notebook](https://colab.research.google.com/drive/1Frh8sH2iybM7fK733dA5yHG4lYrcCNik?usp=sharing)
