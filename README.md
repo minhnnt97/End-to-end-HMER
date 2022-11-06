@@ -42,8 +42,8 @@ Extra datasets for symbol segmentation/classification can be found below:
 -    [x] Finishing training
 -    [x] Finalizing the pipeline + debugging
 -    [x] Streamlit interface and deployment
--    [ ] Presentation slides
--    [ ] DONE :100:
+-    [x] Presentation slides
+-    [x] DONE :100:
 
 ## Code
 -    [Colab Notebook](https://colab.research.google.com/drive/1Frh8sH2iybM7fK733dA5yHG4lYrcCNik?usp=sharing)
