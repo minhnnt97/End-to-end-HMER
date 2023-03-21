@@ -48,6 +48,9 @@ Extra datasets for symbol segmentation/classification can be found below:
 ## Code
 -    [Colab Notebook](https://colab.research.google.com/drive/1Frh8sH2iybM7fK733dA5yHG4lYrcCNik?usp=sharing)
 
+## Presentation Slides
+-    [Google Slides](https://docs.google.com/presentation/d/1MWnFq6y3H0PY80jwBV1fDYXrPdbm-cd6Yl_Jozg9Cc0/edit?usp=sharing)
+
 
 ## References
 1. [Watch, Attend, Parse](http://home.ustc.edu.cn/~xysszjs/paper/PR2017.pdf)
